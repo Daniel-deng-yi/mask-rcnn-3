@@ -1,6 +1,5 @@
 # mask-rcnn-3
-Mask R-CNN for object detection and instance segmentation on pytorch and TensorFlow.
-1、 Python3，Keras，TensorFlow。
+1、Mask R-CNN for object detection and instance segmentation on eras and TensorFlow
 
     Python 3.4+
     TensorFlow 1.3+
